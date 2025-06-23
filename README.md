@@ -11,7 +11,7 @@
 Python, SQL, JavaScript, Bash, Git, LaTeX, Markdown
 
 **Machine Learning & AI**  
-Linear Regression, Logistice Regression, BERT, LLaMA, LLaMAIndex, ARIMA, Prophet, XGBoost, SHAP, Grad-CAM
+Linear Regression, Logistic Regression, BERT, LLaMA, LLaMAIndex, ARIMA, Prophet, XGBoost, SHAP, Grad-CAM
 
 **Model Deployment**  
 MLflow, AWS SageMaker, GitHub Actions, FastAPI, Streamlit
